@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `$ cd ~/Document/kuromimi`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `moemarusan`,
+      summary: `いつもおなかがすいてる`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `いろいろ記録するためのメモ帳的なやつです`,
+    siteUrl: `https://kuromimi.netlify.app`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `moemarusan`,
     },
   },
   plugins: [
