@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `$ cd ~/Documents/kuromimi`,
+    title: `$ cd ~/kuromimi`,
     author: {
       name: `moemarusan`,
       summary: `いつもおなかがすいてる`,
