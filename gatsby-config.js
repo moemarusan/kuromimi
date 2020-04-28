@@ -47,7 +47,7 @@ module.exports = {
             options: {
               inlineCodeMarker: null,
             }
-          }
+          },
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
