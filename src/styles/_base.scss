@@ -36,6 +36,15 @@ header.post-header {
 	margin: calc(var(--space)/2) 0 calc(var(--space)/2);
 }
 
+article {
+	margin: 2.75rem 0 1rem;
+}
+
+hr {
+	margin-top: 3rem;
+	border-top: 0.5px solid #5d7a8b;
+}
+
 .wrap {
 	max-width: 750px;
 	margin: auto;
