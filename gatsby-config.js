@@ -65,13 +65,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `$ cd ~/kuromimi`,
+        short_name: `kuromimi`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#0D2538`,
+        theme_color: `#e0245e`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/kuromimi-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
