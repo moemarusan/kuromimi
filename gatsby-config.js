@@ -6,7 +6,6 @@ module.exports = {
       summary: `いつもおなかがすいてる`,
     },
     description: `なにか書いてる`,
-    image: `content/assets/ogp-image.png`,
     siteUrl: `https://kuromimi.moemarusan.com`,
     social: {
       twitter: `moemarusan`,

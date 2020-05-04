@@ -55,7 +55,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: site.siteMetadata.image,
+          content: `https://kuromimi.moemarusan.com/ogp-image.png`,
         },
         {
           name: `twitter:card`,
