@@ -8,7 +8,7 @@ module.exports = {
     description: `なにか書いてる`,
     siteUrl: `https://kuromimi.moemarusan.com`,
     social: {
-      twitter: `moemarusan`,
+      twitter: `@moemarusan`,
     },
   },
   plugins: [
