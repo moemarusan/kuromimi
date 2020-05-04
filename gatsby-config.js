@@ -5,7 +5,7 @@ module.exports = {
       name: `moemarusan`,
       summary: `いつもおなかがすいてる`,
     },
-    description: `いろいろ記録するためのメモ帳的なやつ`,
+    description: `なにか書いてる`,
     siteUrl: `https://kuromimi.moemarusan.com`,
     social: {
       twitter: `moemarusan`,
