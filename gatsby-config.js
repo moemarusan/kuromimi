@@ -6,7 +6,7 @@ module.exports = {
       summary: `いつもおなかがすいてる`,
     },
     description: `いろいろ記録するためのメモ帳的なやつ`,
-    siteUrl: `https://kuromimi.netlify.app`,
+    siteUrl: `https://kuromimi.moemarusan.com`,
     social: {
       twitter: `moemarusan`,
     },
