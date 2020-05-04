@@ -53,10 +53,10 @@ const SEO = ({ description, lang, meta, title }) => {
           property: `og:type`,
           content: `website`,
         },
-        // {
-        //   property: `og:image`,
-        //   content: `content/assets/ogp-image.png`,
-        // },
+        {
+          property: `og:image`,
+          content: `content/assets/ogp-image.png`,
+        },
         {
           name: `twitter:card`,
           content: `summary_large_image`,
