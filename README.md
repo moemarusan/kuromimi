@@ -1,2 +1,2 @@
-メモ帳的なやつ
-https://kuromimi.netlify.app
+メモ帳的なやつ  
+https://kuromimi.moemarusan.com
