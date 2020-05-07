@@ -29,7 +29,7 @@ img {
 }
 
 header.top {
-	margin: calc(var(--space)/2) 0 calc(var(--space));
+	margin: 0.5rem 0 4rem;
 }
 
 header.post-header {
@@ -48,7 +48,7 @@ hr {
 .wrap {
 	max-width: 750px;
 	margin: auto;
-	padding: 1.5vw 15px 0;
+	padding: 2rem 15px;
 }
 
 nav ul {
