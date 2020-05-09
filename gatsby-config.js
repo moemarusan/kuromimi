@@ -3,7 +3,7 @@ module.exports = {
     title: `$ cd ~/kuromimi`,
     author: {
       name: `moemarusan`,
-      summary: `いつもおなかがすいてる`,
+      summary: `いつもねむい`,
     },
     description: `なにか書いてる`,
     siteUrl: `https://kuromimi.moemarusan.com`,
@@ -55,12 +55,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
