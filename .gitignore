@@ -69,7 +69,7 @@ yarn-error.log
 .yarn-integrity
 
 # wip
-content/wip
+content/blog/wip_*
 
 # Illustrator
 *.ai
