@@ -70,3 +70,4 @@ python --version
 - [Chatwork | ビジネスコミュニケーションをこれ一つで](https://go.chatwork.com/ja/)
 - [マカフィー | クラウド、エンドポイント、ウイルス対策用のセキュリティ ソリューション](https://www.mcafee.com/ja-jp/index.html)
 - [ダウンロード | Steinberg](https://japan.steinberg.net/jp/support/downloads/ur242.html)
+- [キヤノン：ダウンロード｜パーソナル向けスキャナー【CanoScan／IX】：機種を選ぶ](https://cweb.canon.jp/cgi-bin/download/select-product-by-catg.cgi?i_cd_pr_catg=005)
