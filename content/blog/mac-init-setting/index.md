@@ -21,6 +21,7 @@ date: 2020-05-31
 - [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
 - [Visual Studio Code – コード エディター | Microsoft Azure](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [バックアップと同期のダウンロード - 無料のクラウド ストレージ](https://www.google.com/intl/ja_ALL/drive/download/backup-and-sync/)
 
 ## iTerm
 ```shell
