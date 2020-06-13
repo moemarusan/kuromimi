@@ -1,15 +1,18 @@
 ---
-title: 買ったばかりのMacの初期設定を忘れないうちにまとめとく（随時追記）
+title: 買ったばかりのMacの初期設定を忘れないうちにまとめとく
 date: 2020-05-31
 ---
 
-初代Johnnyがお亡くなりになってから1ヶ月、2代目Johnnyが晴れて我が家へやってきた。忘れないうちに初期設定をまとめとかなかったから今ちょっと困ってるので、まとめる。でももう近いうちに初期設定しなくちゃいけない状況になるのはやだなぁ。  
+~~初代Johnnyがお亡くなりになってから1ヶ月、2代目Johnnyが晴れて我が家へやってきた。忘れないうちに初期設定をまとめとかなかったから今ちょっと困ってるので、まとめる。でももう近いうちに初期設定しなくちゃいけない状況になるのはやだなぁ。~~  
+
+まさかこのあとすぐ初期不良で返品交換からの再設定になるとは思ってもいなかったのだよ、Johnny……  
 
 ## システム環境設定
 - トラックパッド > ポイントとクリック > タップでクリックにチェック
 - 共有 > コンピューター名をJohnnyへ変更
 - キーボード > ショートカット > Spotlightのチェックをすべて外す
 - キーボード > ショートカット > 入力ソース > 前の入力ソースを選択を⌘スペースに変更
+- アクセシビリティ > ポインタコントロール > トラックパッドオプション > ドラッグを有効にするを3本指のドラッグに変更
 - 一般 > アクセントカラーをいい感じの赤に変更
 - Dock > 画面上の位置を右に変更
 - Dock > Dockを自動的に表示/非表示にチェックを入れる
@@ -33,6 +36,7 @@ brew install nodebrew
 mkdir -p ~/.nodebrew/src
 nodebrew install-binary latest
 nodebrew use latest
+echo "export PATH=\$HOME/.nodebrew/current/bin:\$PATH" >> ~/.zshrc
 node -v
 npm -v
 npm install -g gatsby-cli react reactdom vue
@@ -49,6 +53,25 @@ source ~/.zshrc
 pyenv global 3.8.2
 python --version 
 >> Python 3.8.2
+```
+
+## Finder
+- 一般 > 新規Finderウインドウで次を表示をホームディレクトリに変更  
+- サイドバーをいい感じにいじる  
+- 詳細 > 全てのファイル名拡張子を表示にチェック  
+- 表示 > ツールバー・ステータスバーを表示
+
+```shell
+# 不可視ファイルを表示させる
+defaults write com.apple.finder AppleShowAllFiles TRUE
+killall Finder
+```
+
+## dotfiles
+```shell
+# ホームディレクトリ直下にcloneして、いい感じにシンボリックリンクを貼る
+git clone https://github.com/moemarusan/.dotfiles.git
+ln -s ~/.dotfiles/.zshrc ~
 ```
 
 ## AppStore
