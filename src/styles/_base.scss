@@ -50,6 +50,11 @@ hr {
 	border-bottom: 0.5px solid #5d7a8b;
 }
 
+article.post-article > section {
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
+
 .wrap {
 	max-width: 750px;
 	margin: auto;
