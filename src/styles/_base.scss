@@ -41,8 +41,13 @@ article {
 }
 
 hr {
-	margin-top: 3rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
 	border-top: 0.5px solid #5d7a8b;
+}
+
+.post-article {
+	border-bottom: 0.5px solid #5d7a8b;
 }
 
 .wrap {
