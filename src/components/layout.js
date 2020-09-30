@@ -3,29 +3,15 @@ import { Link } from "gatsby";
 import '../styles/index.scss';
 
 const Layout = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header
-
-  if (location.pathname === rootPath) {
-    header = (
-      <h1>
-          {title}
-      </h1>
-    )
-  } else {
-    header = (
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
+  let header = (
+      <Link
           to={`/`}
           className="blog-title"
         >
-          ← {title}
+          {title}
         </Link>
     )
-  }
+    
   return (
     <div className="wrap">
       <header className="top">{header}</header>

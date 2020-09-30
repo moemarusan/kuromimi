@@ -98,8 +98,9 @@ h1.post-title {
 
 h2.post-title {
   margin-bottom: .2rem;
-  margin: 0;
+  margin: 0 0 0.3rem;
   font-weight: 400;
+  line-height: 1.5;
 }
 
 a.post-title{
@@ -107,9 +108,13 @@ a.post-title{
   text-decoration: none;
 }
 a.blog-title{
-  color: var(--body-color);
+  color: var(--bg-color);
   text-decoration: none;
-  font-size: .9em;
+  background-color: var(--body-color);
+  font-size: .8em;
+  display: inline-block;
+  padding: 0.2rem;
+  font-weight: 600;
 }
 
 .post-meta {
