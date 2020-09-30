@@ -12,13 +12,13 @@ body {
 
 p {
   margin-bottom: 1.5em;
-  line-height: 1.7;
+  line-height: 1.8;
 }
 
 h1, h2, h3 {
   transition: color .6s;
-  color: var(--title-color);
-  margin: 2.75rem 0 1rem;
+  color: var(--body-color);
+  margin: 5rem 0 2rem;
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
   line-height: 1.15;
@@ -26,12 +26,12 @@ h1, h2, h3 {
 
 h1 {
   margin-top: 0;
-  font-size: 1.424em;
+  font-size: 1.5em;
 }
 
-h2 {font-size: 1.266em;}
+h2 {font-size: 1.3em;}
 
-h3 {font-size: 1.125em;}
+h3 {font-size: 1.2em;}
 
 h4 {
   transition: color .6s;
@@ -51,7 +51,7 @@ strong {
 blockquote {
   border-left: 4px solid var(--border-color);
   padding-left: calc(var(--space) / 2);
-  color: var(--title-color);
+  color: var(--body-color);
 }
 
 em {
@@ -90,21 +90,24 @@ ol {
 }
 
 h1.post-title {
-  margin-bottom: .2rem;
   line-height: 1.5;
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 0.5rem;
 }
 
 h2.post-title {
   margin-bottom: .2rem;
   margin: 0;
+  font-weight: 400;
 }
 
 a.post-title{
-  color: #fff;
+  color: var(--body-color);
   text-decoration: none;
 }
 a.blog-title{
-  color: #fff;
+  color: var(--body-color);
   text-decoration: none;
   font-size: .9em;
 }
