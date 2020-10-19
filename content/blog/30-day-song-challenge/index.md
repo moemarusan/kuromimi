@@ -11,10 +11,10 @@ Twitterで1日1曲選んで書いてきた`#30DaySongChallenge`のお題を昨�
 Twitterで書いていた内容含め、お題の和訳は個人的な意訳なので、間違ってるかもしれん。まぁ、そういうこともあるよね。  
 
 全部CD音源だけどSpotifyでプレイリスト作った。  
-<iframe src="https://open.spotify.com/embed/playlist/5FtjvAJJ1RFmG1Wt9HPlf9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/5FtjvAJJ1RFmG1Wt9HPlf9" width="300" height="120" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## DAY1: A song you like with a color in title / タイトルに色の名前が入っている好きな曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/maybe-blue-uc30-%E8%8B%A5%E8%BF%94%E3%82%8B%E5%8B%A4%E5%8A%B4-remastered/1318570254?i=1318570265&l=ja"></iframe> 
+<iframe src="https://open.spotify.com/embed/track/3q4cAEOiyO1AetD7iz9cfP" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 80−90年代の曲を聴くことが多かった割に、2017年のその時まで「まぁバンドの名前は知ってるけども」くらいの感じだったUNICORN。なんなら当時、「大迷惑」さえ聴いた覚えがなかった。そして、米米がトリを飾った氣志團万博2017で初めてUNICORNを見たときは、あんまり興味を持てなかったのが正直なところである。  
 
@@ -22,14 +22,14 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 今でこそ、服部以降の楽しいUNICORN曲も好んで聴くけれど（特に「音楽家と政治家と地球と犬」はマジで傑作。EBIさんがクレイジーすぎる）、少なくともこの曲を知らなければ日常的に聴くことにはならなかったと思う。  
 
 ## DAY2: A song you like with a number in the title / タイトルに数字が入っている好きな曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/goin-back-to-1981/1437972534?i=1437972535&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5WUWaMnhpCa0mdlLHqtymF" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 某所の90年代カラオケオフ会によく参加しているんだけど、90年代、（80年代と比較して）意外と知らんなと思って調べていたら、スタレビの「夢伝説」を知ってそこからスタレビのアルバムを借りてきて聴いた。  
 
 スタレビってゆったりしててちょっと甘い感じの曲が多いよね、と個人的には思っているんだけど、その中でこの曲を聴いたときの衝撃。軽快でノリがよくて、なんだか動き出したくなるような曲。ライブ映像見たら根本さんの楽しそうなことよ。待って、私が知ってるスタレビじゃない！けど楽しい！わほーい！  
 
 ## DAY3: A song that reminds you of summertime / 夏を思い起こさせる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/wakamono-no-subete-remastered-2019/1475190761?i=1475191218&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5dH4asCl80Mvbsoz6zJVyZ" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 書きながらもう秋だったじゃねーかって自分でつっこんでしまったんだけど、それでもこの曲が最初に浮かんでしまったのだから仕方ない。  
 
@@ -38,38 +38,36 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 よく聴いてたからそう思っただけだと思うけど、それでも私にとって昨年の夏はこの曲だった。  
 
 ## DAY4: A song that reminds you of someone you'd rather forget / 忘れたい人を思い出してしまう曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%82%B5%E3%83%A0%E3%83%87%E3%82%A4/1093731928?i=1093732193&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3WiyetPOdGkF5BzhG9DnKs" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 あんまり大っぴらに書くもんじゃないなと思ってTwitterでは濁していたんだけど、これはね。  
 未だ折り合い付かず数年会っていないし、どちらかが死んでもなお会わないかもしれないし、会うつもりもない父がまだガラケーを使っていた頃の、携帯の着信音。  
 
 そもそも父は佐野元春ファンで、部屋にあった唯一のレコードもたぶんこの曲で、佐野元春という言葉自体が父を想起するといえばそうなんだけど、とはいえいい曲が多くて、他の曲は聴くの（特に好んで聴くのは、「ハッピーマン」と「アンジェリーナ」、「ガラスのジェネレーション」。なんか喋ってるみたいな歌い方だよね）。   
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3/1094173814?i=1094174096&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6DqjnxZndpOkou10vfcmb9" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 でもやっぱりこの曲だけは、曲には全く罪がないものの、そして数十年後に聴けば染みるのだろうと思うような歌詞であったりするわけだけども、それでも今の私は聴けないし、聴こうとも思わないのである。  
 
 ## DAY5: A dong that needs to be played loud / 爆音で聴かねばならん曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/generation-dynamite/265661728?i=265661731&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1vzhlP0yJbjVWv0vjgjcs8" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 あの瞬間をまだ覚えてる。え、これがあのALFEEの曲なのかと唖然としたの。  
 某所の今度は昭和歌謡カラオケオフ会で某氏が歌ってるのを聴いて知った曲で、それ以来ALFEEは私のお気に入りプレイリストに追加されることになるんだけど、これまた恥ずかしながら当時は、「星空のディスタンス」と「メリーアン」をかろうじて聴いたことあったっけ？くらいの感じで、ALFEEといえばむしろアーティスト的な活動よりも、堂本兄弟に出演してる、あの話が面白くて柔らかい感じの人たちでしょう？という印象のほうが強かった。  
-
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/hoshizora-no-distance/307224651?i=307224652&l=ja"></iframe>
 
 だからこそ、最初に聴いたときは唖然として、10秒くらい経って、あのALFEEがこんなロボットアニメの主題歌みたいな（ロボットアニメ見ないから想像だけど）激アツな曲を歌ってんの！？マジで！？超かっこいいじゃん！と語彙力皆無な感想を抱きながら、家帰ったら調べるメモにこっそり追加して、調べて今に至る。  
 
 何か戦わねばならないときに流しておくと、なんとなく燃えるやつ。  
 
 ## DAY6: A song that makes you want to dance / 踊りたくなる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/shake-hip/1263739243?i=1263739246&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5CImzqE4lstCPwolatntDD" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 > これでしょう。これしかないでしょう。  
 
 とTwitterに書いた通りなんだけども。米米のライブでBonus Show Time（アンコール）前のラストに必ず演奏される曲で、その瞬間は踊るぞ！という前向きな気持ちと、そろそろ終わってしまうのだな、という寂しい気持ちがぐっちゃぐちゃに混ざって、いつも泣きながら全力で踊ることになる。  
 
 ## DAY7: A song to drive to / ドライブするときに聴きたい曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/knights-song/745044864?i=745050942&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4GdkQH8WsA5Vw116WVt6Zd" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 そもそもどうやってこの曲にたどり着いたんだかあんまり覚えていないんだけど、この曲自体はT-SQUAREのギターの安藤さんが書いたグランツーリスモのテーマ曲、「Moon Over The Castle」のセルフカバーみたいな感じ。おま、それ、ドライブていうかレースやんけっていうツッコミはしないように。  
 
@@ -78,7 +76,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 ベースの永遠に続くスラップ、マジでやばい。  
 
 ## DAY8: A song about drugs or alcohol / ドラッグかお酒についての曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%82%AB%E3%83%AB%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF/570085200?i=570085206&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/36SdgVM7StvKU37FHABDKl" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 これまた岡村靖幸という人を知ったのは2017年の氣志團万博で、そして失礼ながらに何がいいのか全く分からず、当時の同居人と帰ってからも「あれはなんだったんだ？」と話が出るくらいには謎だった。だって、調べたけど超イケメンってわけでもなければ（個人の感想です）、超歌が上手いというわけでもなく（個人の感想です）、でも、ただ眼鏡を外すだけで沸く黄色い歓声。それも、女性だけじゃなくて、男性も。この人、何者？  
 
@@ -87,7 +85,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 そんな岡村ちゃんの氣志團万博での1曲がこれ。ていうか思いついたのこの曲だけだったってくらい、難しいお題だった。  
 
 ## DAY9: A song that makes you happy / ハッピーな気分になれる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/kanashimi-no-lucky-star/430303653?i=430303669&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/32REDbDc4sBPYc8Barr9Na" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 底抜けにハッピーって感じの曲を聴かないせいでちょっと悩んでしまった。  
 この曲、タイトルからして悲しいんだかラッキーなんだかよく分からん、そんで、歌詞見ても分からんのだけど、それでもメロディーもだろうし、ボサノバっていうジャンルからくるものもあると思うけど、何より細野さんの声の深さよ。  
@@ -95,7 +93,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 なんとなく、なんかやわらかくてふわふわしているもので包み込まれている気分になる。うーんそうだ！雲だ！雲っぽい気がする！それをハッピーと呼んでいいのかは分からないけど、たぶんハッピーな気分になっている。  
 
 ## DAY10: A song that makes you sad / 悲しい気分になってしまう曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/perspective/1177904299?i=1177904644&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1KgoxP237WKeSC3nf0VGep" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 細野さんの次はYMOとか選曲がw  
 どっかに書いたなと思って掘り起こしたら、それは2018年の3月21日のことだったらしい。YMO自体は母の影響でなんとなく聴いていたんだけど、その日は眠れなくて、適当にiTunesに入ってる曲をシャッフルして聴いていたら、この曲が流れた。深夜2時頃、ひとりぼーっと聴いてたらあまりに虚しくて、気付いたら視界が歪んでいて、自分でも驚いた。  
@@ -103,7 +101,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 それから2年半以上経って、これを選ぶために久々にきちんと聴いて、部屋でひとり、また泣いていた。最後なんか淡々としてるのに、その淡々としてるのがたたみかけられて、やっぱり、なんか、なんか、とっても虚しい。  
 
 ## DAY11: A song you never get tired of / 絶対に聴き飽きない曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/fushizenna-kimiga-suki/1443434289?i=1443435025&l=ja"></iframe>  
+<iframe src="https://open.spotify.com/embed/track/450qSBPUac7ReVZTW3wPBv" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 
 正直、「スワンの城」のFlying Trip版と最後まで迷って、あとでここにまとめることを考慮してこの曲にした。というのも、「スワンの城」はサブスク配信されていないからである。ていうか、「曲数多くてすいません!!」って一番曲数入ってるベスト版があるにもかかわらず、それがサブスク配信されてないって……配信したってよぉ……  
 
@@ -117,7 +115,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 
 
 ## DAY12: A song from your preteen years / プレティーン[9-12歳]の頃の曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A7%E3%82%B1%E3%83%B3%E3%83%A1-%E3%82%BD%E3%83%B3%E3%82%B0/689220815?i=689220828&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5kSzmc77B0Y6DrXT5YH9eT" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 米米CLUBという集団は、もしかしたらライブで観客が踊るという現象が起きた、最初のバンドかもしれない（知らんけど）。かつて解散前に存在したファンクラブでは、会員限定で踊りをレクチャーするビデオが売られていたと聞いている。まぁ、ビデオってとこが時代を感じるけども。それゆえ観客は「ギャラが出ないメンバー」とも言われ、通常なら一番前の席が一番いい席で、3階席より2階席が、2階席より1階席がいいのだろうけれど、殊、米米CLUBのライブにおいては、踊りやすい通路席が重視されていたりする。  
 
@@ -126,7 +124,7 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 問題はこのDVDで、踊り子たるシュークリームシュのお2人が踊っているのに合わせて、ギターのBEさんがちょいちょい解説を入れてるんだけど、Choo Choo TRAINの最初みたいな動きに合わせて、「ずらしまわし」「まわしずらし」「どちらでもいいです」みたいなことを言ってて。その言い方といい、言葉遊び的な部分が、ナウでヤングだった小学生の私にバカウケしてしまった。そんなところからお米の沼に足を踏み入れることになり、気付けばもうすぐ15年も米米を聴いている。  
 
 ## DAY13: A song you like from the 70s / 70年代にリリースされた好きな曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/c-cho-kotoba-ni-goyojin/948139614?i=948139615&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3EqgZ0QhMJlhUIuDhyCxDp" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 選曲を始めるにあたって、①可能な限りアーティスト被りを避けること、②可能な限り邦楽から選曲すること、という2つのルールを密かに設けていた。そんでこのお題で後者のルールに結構悩まされた。  
 
@@ -136,40 +134,36 @@ Twitterで書いていた内容含め、お題の和訳は個人的な意訳な�
 母がサザンが好きで、我が家にはアルバム「すいか」があったので聴く機会はあったし、iTunesには入れてたんだけど、あんまり認識してなくて（タイトルを認識して聴いていたのはたぶん、「栞のテーマ」と「チャコの海岸物語」だけだったと思う、4枚もアルバムあるのに）2017年あたりに誰かがカラオケで歌ってるのを聴いて、「あ ちょいと」を文字で見て、再発見をして聴き始めた。でも、Aメロ低すぎて自分では歌えないのであった。かなしい。  
 
 ## DAY14: A song you'd love to be played at your wedding / 結婚式で流したい曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/banzai-suki-de-yokatta/1444196590?i=1444197024&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6Rx8pboFNZs2stlRlCO3iI" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 正直言ってもう、結婚する機会がくるとは思っていないので、結婚式で流れそうな曲というか王道っぽい曲から選んだ。  
 
-けれど、この曲に限ったことではないものの、ウルフルズのこの手の曲の歌詞は語弊を恐れずに書くならば、男くさくてストレートなものが多いと思ってて（特に「ヤング ソウル ダイナマイト」はいいぞ、超かっけー）、聴いてるとなんだか、ついていきます兄貴ィ！っていう謎の気分に陥る（つまり、対象としている相手になりたいんじゃなくて、その歌詞で歌われている当の本人みたいになりたくなるんだよなぁ……）。  
+けれど、この曲に限ったことではないものの、ウルフルズのこの手の曲の歌詞は語弊を恐れずに書くならば、男くさくてストレートなものが多いと思ってて（特に「ヤング ソウル ダイナマイト」はいいぞ、超かっけー）、聴いてるとなんだか、ついていきます兄貴ィ！っていう謎の気分に陥る（つまり、対象とされている相手じゃなくて、その歌詞で歌われている当の本人みたいになりたくなるのよなぁ……）。  
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/young-soul-dynamite/1440783003?i=1440783157&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2LZvtmZzS8vCcbzF5e2cDk" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 君の名は。で三葉ちゃんが「来世は東京のイケメン男子にしてくださーい」って叫んでいたけれど、徳を積んでないのでだめそうと思いつつ、万が一生まれ変わることがあるならば、そのときはウルフルズの曲の主人公みたいな男に生まれ変わって、今度こそ結婚式でこの曲を流したいものである。そうだそうだ。まぁ、生まれ変わりを信じちゃいないんだけど。  
 
 ## DAY15: A song you like that's a cover by another artist / 好きなカバー曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/tsubasa/1329859035?i=1329859036&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5bJiiVxIHsBmtAE7zwjIFk" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 記憶が曖昧だけど、たぶん結構前にDjango Girlsの勉強会に参加したときだと思う、たぶんね。勉強会が終わり、打ち上げで行った居酒屋で流れてたんだったんだと思う。本当に記憶が曖昧すぎてこのタイミングじゃないかもしれないけど、とにかく居酒屋でかかってたことだけは覚えてる。  
 
-実は原曲どころかアンダーグラフというバンドさえ知らなかったので、この曲は彼女の曲だと思ってて、声があまりに曲に合いすぎて、家に帰ってもまだ気になってたので、かろうじて記憶に残っていたメロディーから鼻歌検索か何かでなんとか特定した記憶がある。ちなみに、このあとめちゃくちゃ原曲も聴いた。そしてDjangoは何一つ覚えていない。  
-
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%83%84%E3%83%90%E3%82%B5/219640327?i=219640354&l=ja"></iframe>
-
-こっちは原曲。  
+実は原曲どころかアンダーグラフというバンドさえ知らなかったので、この曲は彼女の曲だと思ってて、声があまりに曲に合いすぎて、家に帰ってもまだ気になってたので、かろうじて記憶に残っていたメロディーから鼻歌検索か何かでなんとか特定した記憶がある。ちなみに、このあとめちゃくちゃ原曲も聴いた。そしてDjangoは何一つ覚えていない。    
 
 ## DAY16: A song that's a classic favorite / 昔からのお気に入り
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/raspberry-dream/575565553?i=575565564&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/31Z7xgQv78zwRo959qBVDm" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 classic favoriteを、favorite since a long time agoだと思って選曲してるので、そもそもの意訳がミスってたらどんまいw  
 
 米米へのはまり方（しかも曲が好きなわけでもない）が異常だっただけで、母が運転する車でかかってたからたぶん、レベッカやオフコース、ウルフルズあたりは同じくらいの年数聴き続けてて、最後までオフコースの「一億の夜を越えて」と悩んで、こっちのほうが聴いてる回数多い気がするなと思って選んだ。  
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/ichioku-no-yoru-wo-koete/1440787484?i=1440788357&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0ryfpd3CbJPZdGcf64G48v" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 この曲はずっと私の夜遊びのテーマで、ちょっと危ないんだけど、夜に外をほっつき歩いているときにいつも聴いてる。空が暗い時間によく似合う曲。そしてこの曲を歌ってるときの、当時のNOKKOさんの狂気的な感じというか、触るな危険って感じの強い声やパフォーマンスが好き。ぞわぞわする。  
 
 ## DAY17: A song you'd sing a duet with someone on karaoke / カラオケで誰かとデュエットしたい曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/midnight-call/606898203?i=606898887=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/52ewauJSnsd60MCCWNk8pc" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ~~米米~~バービーブーの「いいじゃん」を聴いて、~~パクリ~~オマージュ元の「負けるもんか」を聴いたのが、そもそものBARBEE BOYSとの出会いだった。とはいえあんまり興味が持てなくてずっと放っておいたのに、バービー10年ぶりのライブ開催のニュースが2019年のいつだっけか駆け回って、米米とバービーのファン層はかなり被っているらしく、米米のオフ会でお会いしたみなさんによってFacebookが騒がしくなったのをきっかけに、そろそろ聴いてみるかーとベスト盤を借りてきた次第であった。  
 
@@ -182,14 +176,14 @@ classic favoriteを、favorite since a long time agoだと思って選曲して�
 結局1曲ハマらないと他の曲が聴けず、結果としてアーティストにハマれないので、新しくCDを借りたらいつも最初にざっと15秒ずつくらい聴いて、好きになれそうな曲を最低1曲探すという習慣があるんだけど、その最初の1曲がこれだった。ちなみに、デビューシングルのB面曲であるがゆえに、さほどメジャーじゃないらしく、JOYSOUNDには収録されているけれど、DAMでは歌えないらしい。そんな曲なので、バービーファンの人でも捕まえない限り、まず誰かと歌う機会は来ないだろうけど、最初から最後までずっとコーラスをつけているKONTAさんパートは、歌ったら絶対面白いよなぁと聴くたびに思っている。
 
 ## DAY18: A song from the year you were born / 生まれた年の曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/doushiyoumonaibokuni-tenshigaoritekita/295582234?i=295582237&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3LqremeltTF9SVtxx9ZpYU" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 1996年リリースの曲かつ私がよく聴くアーティストとなると真っ先に思いついたのは、米米の「STYLISH WOMAN」。私が生まれる3週間前にリリースされているおかげで、米米界隈にいるときの自己紹介に使えるのは非常にありたいのだけど、制限しないと全部米米で書けちゃう可能性があるのでやめとこ、と。次に思いついたのはやっぱりメジャーだからか、久保田利伸の「LA・LA・LA LOVE SONG」なんだけど、この曲が好きかって言われると、久保田さんのもっと好きな曲あるなと思った。  
 
 カラオケでリリース年縛りで歌うような真似をしない限り、CDのリリース年なんて知らないので、この曲も96年だってここで初めて知った。ダークサイドに堕ちてしまったのか（笑）、今となっては「SPY」を一番聴いている気がするけども、中学生くらいまでは一番好きな曲だったんじゃないかなぁ、当時使ってたiPod nano4Gでよく聴いてた気がする。そんで、「この曲が一番好き！」って母に言ったら、「私も」って返ってきて、親子ってすげぇなと思ったのを思い出した。  
 
 ## DAY19: A song that makes you think about life / 人生について考えさせられる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E5%83%95%E3%81%8C%E5%83%95%E3%81%A7%E3%81%82%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB/1056474756?i=1056475161&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0bhTgYxjWbD3QVUuEdpEwZ" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 曲云々以前に人生について考えたことあったっけ？とパッパラパーな頭で思った。  
 ということで、この曲を聴いているときも、そんな深いことは考えてない。むしろ感じろ的な部分があると思っている。そうして、感化されながら明日も生きる。どん底でどぶを啜りそうになるほんのちょっと手前で聴いて、また生き延びる。  
@@ -201,7 +195,7 @@ classic favoriteを、favorite since a long time agoだと思って選曲して�
 当時は電車に乗らないと帰れない場所に住んでいたので、電車降りて家まで歩きながら、忘れないうちに聴いとこと思って、興味本位で聴いたのがこの曲の東京ドームのライブテイク。そして、気付いたら目の前が大きくぼやけていた。同居人にその顔を見せたくなくて、遠回りして帰ったのを覚えている。  
 
 ## DAY20: A song that has many meanings to you / 自分にとって多くの意味を持つ曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/danzen-%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AF%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2-%E5%94%AF%E4%B8%80%E7%84%A1%E4%BA%8C%E3%81%AE%E5%85%89%E3%81%9F%E3%81%A1/1447931442?i=1447931444=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0eHv2HCxtNv1g3IiydZHjO" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 このお題は難しかったなぁ。  
 
@@ -217,7 +211,7 @@ classic favoriteを、favorite since a long time agoだと思って選曲して�
 B'zといえばTreasure/Pleasureで育ってきてしまい、それ以外をほぼ聴いていないのが正直なところなんだけど、そういえばこの曲も中学生くらいまではよく聴いてたなぁって。B'zを聴く最初の1曲として、この曲のサビのキャッチーさはちょうどよかったんだよね。いつしか気付いたら最近は「恋心」「love me, I love you」「Liar! Liar!」の三つ巴リピートしかしてなくて、選ぶときに久々に聴いた気がする……
 
 ## DAY22: A song that moves you forward / 前向きになれる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E9%80%B2%E3%82%81-%E3%81%AA%E3%81%BE%E3%81%91%E3%82%82%E3%81%AE/1384418896?i=1384418915=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2hzCIXCaxMY5veThB7kfDj" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 もはや、どこの誰に勧められてCD借りてきたんだか分からないくらい、やたらみんなカラオケで歌うよね。ということで、いつから入ってたのか分からない斉藤和義のベストアルバム。歩いて帰ろうくらいしか聴いてこなかったんだけど、90年代カラオケオフ会で歌える曲を探していたとかそんなタイミングで全曲聴き直していて、え、この曲めっちゃいいじゃんってなった記憶がある。  
 
@@ -230,10 +224,12 @@ B'zといえばTreasure/Pleasureで育ってきてしまい、それ以外をほ
 
 そもそも、他人に自分の好きな音楽を共有するのがあんまり得意じゃないので、「みんなが」聴くべきって結構難しいなと思っていたけどとりあえず、聴いてから最速で母に共有したのってなんだっけ？って思い起こしたら、この「流星のサドル」の演奏だった。  
 
+<iframe src="https://open.spotify.com/embed/track/7KOKSe5FdrzVqStgJVcVv2" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ただ、母からは「80年代感がすごい」って言われたので、これをかっこいいと思う人とはたぶん趣味が合うのだろうなぁ。演奏は完全にカシオペアなのに、それにひとつも負けないパワーで歌う久保田さんのすごさよ。こんな全力、他にある？　これを見て、フュージョンバンドが単発だとしても単独で地上波に番組を持てるような時代に生まれたかったなと心から思ってしまった。
 
 ## DAY24: A song by a band you wish were still together / 解散してしまったバンドの曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9/425186906?i=425187156=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7veAwgdzMdvnp0Gv5uqUdv" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 高1のときのクラスメイトが、電子辞書にmp3ファイルを入れておくことで、授業中にこっそり音楽を聴くという荒技を生み出していたのだが、そのとき彼女が聴いていたのがこの曲で。「何聴いてるの？」『ちょっと聴いてみる？』みたいな感じで、ちょっと聴かせてもらうつもりが、気付いたらどハマり。「ちょっと待って、これ誰のなんて曲なん！！！！？」  
 
@@ -243,7 +239,7 @@ B'zといえばTreasure/Pleasureで育ってきてしまい、それ以外をほ
 そういえば、彼女がなぜこの曲を聴いていたのか、椿屋が好きなのか、何か別の経路でこの曲だけ知ったのか、聞いてみればよかったなと思う今日この頃。
 
 ## DAY25: A song you like by an artist no longer living / 今は亡きアーティストの好きな曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E5%8D%88%E5%89%8D%E9%9B%B6%E6%99%82/573946086?i=573946144=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4g9NtY2EFxBny6PkLMxTH0" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 件の昭和歌謡カラオケオフ会で誰かが「踊り子」を歌ってて、気になって調べたところから聴き始めた村下孝蔵。その声を最初に聴いたとき、この人は本当に歌うために生まれてきたんだろうなって思ってしまった。でも、それはまだCDしか聴いていない時代の話で、そのうち知るんだ。本当にやばいのはギター1本の弾き語りだって。  
 
@@ -254,35 +250,35 @@ B'zといえばTreasure/Pleasureで育ってきてしまい、それ以外をほ
 余談だけどこの曲も、B'zの「love me, I love you」も、久保田利伸の「永遠の翼」も、裏側で3連譜が流れててそれが好きなんだけど、8beat・16beatみたいな感じで、裏で3連譜流れてますみたいな専門用語ないんですかね、同じような曲を探したいんだけど探し方が分からん。
 
 ## DAY26: A song that makes you want to fall in love / 恋したくなる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E5%88%9D%E6%81%8B/1442492469?i=1442493434=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2Y3l4j8200okJ7pgKSvH9Y" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 映画「図書館戦争 革命のつばさ」の主題歌。  
 
 堂上教官と郁ちゃんの関係性が、恋愛という感情に基づくというのならそれはいいなぁという気がしてしまうけれど、現実的に私には恋愛感情がないし、私は郁ちゃんじゃないし、堂上教官は降ってこない。かなしい。どうして堂上教官は降ってこないのだ（仕様です）  
 
 ## DAY27: A song that breaks your heart / 胸が張り裂けそうになる曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E6%B7%B1%E5%A4%9C%E9%AB%98%E9%80%9F/264660169?i=264660502=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3fN6gHG7zhlrt15hnkVGFz" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 「デリバリーおじさん」という、ジャンプラに掲載されていたものの、少年誌に掲載されているにはあまりに苦くてあたたかい、青年誌っぽい絵柄の漫画がある。そのデリバリーおじさんは、私がジャンプラに掲載されている漫画の中で、最も読めてよかったと思った漫画で、あまりによすぎて何度も読み返しているんだけど、この漫画が連載終了したときに、「デリバリーおじさんを作った曲」みたいな形で紹介されていたうちの1曲がこの曲だった。  
 
 こんな深みのある（語彙力が足りない）話を描ける人が、どんな曲を聴いているか気になって調べて聴いたら、なんというか抉られてしまった。初めて聴いたとき、曲が終わってから1分くらい動けなかったんだよなぁ  
 
 ## DAY28: A song by an artist whose voice you love / 声が好きなアーティストの曲	
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E9%A2%A8%E3%81%AE%E4%B8%80%E7%A7%92/1113168299?i=1113168611"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6PLrGpb8yOcLjP5nXHWQlg" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 たぶん再び件の昭和歌謡カラオケオフ会で、杉山清貴＆オメガドライブの「SUMMER SUSPICION」を誰かが歌っていて、「あ、いいねぇ」ってなって、帰って調べたパターンだったと思う。そのうち、ソロまで含めて聴き始めて、一番好きな曲がこれだった。「はじけながら」の歌い方、かっこいいよねぇ。  
 
 ただ、村下孝蔵もそうなんだけど、杉山清貴という歌手もまた、喉からCD音源以上の声を出すせいで、CDだと物足りない上、声が一番好きって考えるとやっぱり「SUMMER SUSPICION」の「狂いそうさ」のハイトーンの伸びに敵うものは何もない、あれは気持ち良すぎる。
 
 ## DAY29: A song you remember from your childhood / 子供時代から知っている曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/beams/720547772?i=720548149&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3jq6N7kEzMsiAniTNKDxsZ" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 小5の夏、某所で唐突に出会った某大道芸人（をまだ目指している段階だったのかな、サーカス学校の学生だったからね）のお兄さんが、当時からパフォーマンス中に使っていたのがこの曲だった。この曲だって分かったのは、それから数年後自由にPCを使えるようになってからの話で、それまでは検索のしようが無かったものである。当時はShazamもなくて、上妻さんの存在も知らなくて、記憶だけで「三味線　CD」とか一つ一つ検索語句を入れながら頑張って特定した覚えがある。  
 
 私が10歳だった当時、21歳だったそのお兄さんは私にとって珍しく「楽しそうな大人」ってやつで、心からその生き方に憧れてしまい、決して職業的な意味ではなくて単に人間としてずっと尊敬し続けているがゆえ、少しくらい落ち込んでもこの曲を聴けばなんとなくやるぞーって気になる。ちょろいんだよなぁ、自分。そして、同時に小5のあの夏を、あのわくわくどきどききらめている感じを思い出すのである。  
 
 ## DAY30: A song that reminds you of yourself / 自分自身を表す（思い出す）曲
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/%E6%B5%AA%E6%BC%AB%E9%A3%9B%E8%A1%8C/1263739243?i=1263739256&l=ja"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5U2SbN3MIGhte3ylMVQomp" width="300" height="35" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 自分っていうのは他者からの視点の交点であってみたいな話をいつだったか誰かとしていたのをふと思いだした。自分自身を表す曲のお題が難し過ぎて、発想を変えて逃げた形である。  
 
