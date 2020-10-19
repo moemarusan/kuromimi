@@ -10,6 +10,9 @@ Twitterで1日1曲選んで書いてきた`#30DaySongChallenge`のお題を昨�
 音楽にはどうしても思い出が付きもので、途中休憩を挟みつつ（サボった）、曲を選びながら30の記憶を掘り起こしていた。  
 Twitterで書いていた内容含め、お題の和訳は個人的な意訳なので、間違ってるかもしれん。まぁ、そういうこともあるよね。  
 
+全部CD音源だけどSpotifyでプレイリスト作った。  
+<iframe src="https://open.spotify.com/embed/playlist/5FtjvAJJ1RFmG1Wt9HPlf9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## DAY1: A song you like with a color in title / タイトルに色の名前が入っている好きな曲
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:750px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/maybe-blue-uc30-%E8%8B%A5%E8%BF%94%E3%82%8B%E5%8B%A4%E5%8A%B4-remastered/1318570254?i=1318570265&l=ja"></iframe> 
 
