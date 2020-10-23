@@ -26,7 +26,7 @@ date: 2020-10-21
 読む際は、下記のプレイリストをBGMにしてください（笑）  
 それでは長ったらしい文章ですが、お時間あれば、最後までよろしくお願い申し上げましょうー！  
 
-<iframe src="https://open.spotify.com/embed/playlist/2dfAcjgKy2B7YOtPf48R9J" width="300" height="15 sp0" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/2dfAcjgKy2B7YOtPf48R9J" width="300" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ※ 長いです（このあと、7,000字くらいある）  
