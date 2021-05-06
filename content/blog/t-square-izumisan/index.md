@@ -7,77 +7,77 @@ date: 2021-05-02
 
 ## THE SQUARE
 - 脚線美の誘惑 (1982)
-	- 09. MEMORIES OF ALICE　※伊東さんとの共作
+	- M-09 MEMORIES OF ALICE　※伊東さんとの共作
 - うち水にRainbow（1983）
-	- 07. From 03 To 06 (Receivers) 
+	- M-07 From 03 To 06 (Receivers) 
 - ADVENTURES (1984)
-	- 07. CAPE LIGHT
-	- 08. TRAVELERS
+	- M-07 CAPE LIGHT
+	- M-08 TRAVELERS
 - Stars and the Moon (1984)
-	- 03. CRY FOR THE MOON
-	- 08. 遠雷
+	- M-03 CRY FOR THE MOON
+	- M-08 遠雷
 - R・E・S・O・R・T (1985)
-	- 01. OMENS OF LOVE
-	- 07. MERYLU
-	- 09. FORGOTTEN SAGA
+	- M-01 OMENS OF LOVE
+	- M-07 MERYLU
+	- M-09 FORGOTTEN SAGA
 - S・P・O・R・T・S (1986)
-	- 04. LEAVE ME ALONE
-	- 07. TAKARAJIMA
+	- M-04 LEAVE ME ALONE
+	- M-07 TAKARAJIMA
 - TRUTH (1987)
-	- 06. BREEZE AND YOU
-	- 09. TWILIGHT IN UPPER WEST
+	- M-06 BREEZE AND YOU
+	- M-09 TWILIGHT IN UPPER WEST
 - YES,NO. (1988)
-	- 04. EL MIRAGE
-	- 06. MR.MELLOW
-	- 10. CATCHER IN THE RYE
+	- M-04 EL MIRAGE
+	- M-06 MR.MELLOW
+	- M-10 CATCHER IN THE RYE
 - FRIENDSHIP (2000)
-	- 04. MAYBE TOMORROW
+	- M-04 MAYBE TOMORROW
 - Spirits (2003)
-	- 06. TRUE LOVE
-	- 10. GLORIOUS ROAD
+	- M-06 TRUE LOVE
+	- M-10 GLORIOUS ROAD
 	
 
 ## T-SQUARE
 - WAVE (1989)
-	- 05. ROUTE 405
-	- 11. RACHAEL
+	- M-05 ROUTE 405
+	- M-11 RACHAEL
 - NATURAL (1990)
-	- 03. WIND SONG　※Russ Freemanさんとの共作
-	- 04. WHITE MANE
-	- 07. LABYRINTH OF LOVE　※Russ Freemanさんとの共作
+	- M-03 WIND SONG　※Russ Freemanさんとの共作
+	- M-04 WHITE MANE
+	- M-07 LABYRINTH OF LOVE　※Russ Freemanさんとの共作
 - NEW-S (1991)
-	- 06. MIDNIGHT CIRCLE
-	- 07. THE SUMMER OF '68
+	- M-06 MIDNIGHT CIRCLE
+	- M-07 THE SUMMER OF '68
 - IMPRESSIVE (1992)
-	- 02. 11月の雨
-	- 06. Dandelion Hill
+	- M-02 11月の雨
+	- M-06 Dandelion Hill
 - HUMAN (1993)
-	- 06. BEYOND THE DAWN 
+	- M-06 BEYOND THE DAWN 
 - 夏の惑星 (1994)
-	- 08. SWEET SORROW
+	- M-08 SWEET SORROW
 - Welcome to the Rose Garden (1995)
-	- 01. TRIUMPH
-	- 08. THE AUTUMN OF '75
+	- M-01 TRIUMPH
+	- M-08 THE AUTUMN OF '75
 - B.C. A.D.〜 Before Christ＆Anno Domini〜 (1996)
-	- 07. BOSSA GRIGIA
-	- 09. TERRA DI VERDE
+	- M-07 BOSSA GRIGIA
+	- M-09 TERRA DI VERDE
 - BLUE IN RED (1997)
-	- 03. ANCHOR'S SHUFFLE 
+	- M-03 ANCHOR'S SHUFFLE 
 
 ## T-SQUARE SUPER BAND
 - Wonderful Days (2008)
-	- 05. Wonderful Days
-	- 08. Freckles
+	- M-05 Wonderful Days
+	- M-08 Freckles
 
 ## T-SQUARE & THE SQUARE Reunion
 - It's a Wonderful Life! (2018)
-	- 02. Heidi
-	- 08. HELLO LIKE BEFORE
+	- M-02 Heidi
+	- M-08 HELLO LIKE BEFORE
 
 ## T-SQUARE and FRIENDS
 - F-1 GRAND PRIX WORLD (1992)
-	- 02. サーキットの放浪者　※則竹さんと共作
+	- M-02 サーキットの放浪者　※則竹さんと共作
 - SOLITUDE (1994)
-	- 04. SALAMANDER
+	- M-04 SALAMANDER
 - T comes back (2003)
-	- 05. Mirage in the Valley
+	- M-05 Mirage in the Valley
