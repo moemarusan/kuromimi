@@ -18,7 +18,7 @@ date: 2020-05-31
 - Dock > Dockを自動的に表示/非表示にチェックを入れる
 
 ## 真っ先にDLしておく
-- [Google Chrome ウェブブラウザ](https://www.google.co.jp/chrome/)
+- [Sidekick](https://www.meetsidekick.com/)
 - [RememBear: The easiest way to remember passwords](https://www.remembear.com/)
 - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [iTerm2 - macOS Terminal Replacement](https://www.iterm2.com/)
@@ -76,12 +76,11 @@ ln -s ~/.dotfiles/.zshrc ~
 
 ## AppStore
 - LINE
-- Facebook Messenger
 - WinArchiver
-- BarTunes
 - Kindle
 - slack
 - Spark
+- Logic Pro
 
 ## 追加でDL
 - [Open Broadcaster Software®️ | OBS](https://obsproject.com/ja)
@@ -91,6 +90,6 @@ ln -s ~/.dotfiles/.zshrc ~
 - [Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom](https://us02web.zoom.us/)
 - [Discord — コミュニティの仲間と、友達と、おしゃべりしよう](https://discord.com/)
 - [Chatwork | ビジネスコミュニケーションをこれ一つで](https://go.chatwork.com/ja/)
-- [マカフィー | クラウド、エンドポイント、ウイルス対策用のセキュリティ ソリューション](https://www.mcafee.com/ja-jp/index.html)
+- [Official Site | Norton™ - Antivirus & Anti-Malware Software](https://jp.norton.com/)
 - [ダウンロード | Steinberg](https://japan.steinberg.net/jp/support/downloads/ur242.html)
 - [キヤノン：ダウンロード｜パーソナル向けスキャナー【CanoScan／IX】：機種を選ぶ](https://cweb.canon.jp/cgi-bin/download/select-product-by-catg.cgi?i_cd_pr_catg=005)
