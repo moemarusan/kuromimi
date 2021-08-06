@@ -35,7 +35,14 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 750,
+            },
+          },
+          {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {
+              width: 750,
+              height: 400,
             },
           },
           {
