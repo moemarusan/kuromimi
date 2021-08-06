@@ -7,7 +7,8 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  line-height: 1.45;
+  line-height: 1.8;
+  font-size: .875rem;
 }
 
 p {
@@ -89,9 +90,14 @@ ol {
   }
 }
 
+.global-header {
+  margin-bottom: 2rem;
+  margin-top: 6rem;
+}
+
 h1.post-title {
   line-height: 1.5;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   font-weight: 400;
   margin-bottom: 0.5rem;
 }
@@ -101,25 +107,36 @@ h2.post-title {
   margin: 0 0 0.3rem;
   font-weight: 400;
   line-height: 1.5;
+  font-size: .875rem;
+  width: 80%;
+  padding-right: 5px;
 }
 
 a.post-title{
-  color: var(--body-color);
   text-decoration: none;
 }
 a.blog-title{
-  color: var(--bg-color);
+  color: var(--body-color);
   text-decoration: none;
-  background-color: var(--body-color);
-  font-size: .8em;
+  font-size: .8rem;
   display: inline-block;
   padding: 0.2rem;
-  font-weight: 600;
+  opacity: .8;
+  font-weight: 400;
+}
+
+.post-list-item {
+  margin: 0;
 }
 
 .post-meta {
-  font-size: .8em;
+  font-size: .875rem;
   opacity: .8;
+  width: 20%;
+}
+
+.articles li {
+  margin: 0 0 1rem 0;
 }
 
 @media screen and (max-width: 650px) {
@@ -132,4 +149,12 @@ a.blog-title{
   }
   
   h2 {font-size: 1.126em;}
+
+  h2.post-title {
+    width: 100%;
+  }  
+
+  .post-meta {
+    width: 100%;
+  }
 }

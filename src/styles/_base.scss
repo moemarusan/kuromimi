@@ -61,6 +61,23 @@ article.post-article > section {
 	padding: 2rem 15px;
 }
 
+.articles {
+	list-style-type: none;
+	margin-left: 0;
+}
+
+.post-list {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+footer {
+	font-size: .8em;
+	opacity: .8;
+	margin-top: 4rem;
+}
+
 nav ul {
 	display: flex;
 	li:first-child {
@@ -74,3 +91,4 @@ nav ul {
 iframe {
 	margin-bottom: 1.25em;
 }
+

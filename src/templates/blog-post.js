@@ -1,13 +1,14 @@
-import React from "react";
-import { Link, graphql } from "gatsby";
+import * as React from "react"
+import { Link, graphql } from "gatsby"
 
-import Layout from "../components/layout";
-import Seo from "../components/seo";
+// import Bio from "../components/bio"
+import Layout from "../components/layout"
+import Seo from "../components/seo"
 
-const BlogPostTemplate = ({ data, pageContext, location }) => {
+const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+  const siteTitle = data.site.siteMetadata?.title || `Title`
+  const { previous, next } = data
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -15,19 +16,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article className="post-article">
-        <header className="post-header">
-          <h1 className="post-title">
-            {post.frontmatter.title}
-          </h1>
-          <div className="post-meta">
-            {post.frontmatter.date}
-          </div>
+      <article
+        className="post-article"
+        itemScope
+        itemType="http://schema.org/Article"
+      >
+        <header class="post-header">
+          <h1 itemProp="headline" className="post-title">{post.frontmatter.title}</h1>
+          <small className="post-meta">{post.frontmatter.date}</small>
         </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <section
+          dangerouslySetInnerHTML={{ __html: post.html }}
+          itemProp="articleBody"
+        />
       </article>
-
-      <nav>
+      <nav className="blog-post-nav">
         <ul
           style={{
             display: `flex`,
@@ -60,19 +63,40 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostBySlug(
+    $id: String!
+    $previousPostId: String
+    $nextPostId: String
+  ) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY-MM-DD")
+        description
+      }
+    }
+    previous: markdownRemark(id: { eq: $previousPostId }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+      }
+    }
+    next: markdownRemark(id: { eq: $nextPostId }) {
+      fields {
+        slug
+      }
+      frontmatter {
+        title
       }
     }
   }

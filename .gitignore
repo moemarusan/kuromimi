@@ -68,8 +68,4 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# wip
 content/blog/wip_*
-
-# Illustrator
-*.ai
