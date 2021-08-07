@@ -29,6 +29,13 @@ const Seo = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  let is_root;
+
+  if (title === "$cd ~/kuromimi") {
+    is_root = true;
+  } else {
+    is_root = false;
+  }
 
   return (
     <Helmet
@@ -36,7 +43,7 @@ const Seo = ({ description, lang, meta, title }) => {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : '$cd ~/kuromimi'}
+      titleTemplate={is_root ? `%s | ${defaultTitle}` : defaultTitle}
       meta={[
         {
           name: `description`,
