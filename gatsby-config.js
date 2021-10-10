@@ -46,6 +46,12 @@ module.exports = {
             },
           },
           {
+            resolve: "@weknow/gatsby-remark-twitter",
+            options: {
+              theme: 'dark',
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
