@@ -5,7 +5,7 @@ date: 2020-10-19
 
 Twitterで1日1曲選んで書いてきた`#30DaySongChallenge`のお題を昨日消化しきった。  
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">なんか面白そうなん見つけたから、ちょっとずつ書いてみる<br>DAY1: タイトルに色の名前が入っている、好きな曲<br><br>Maybe Blue / UNICORN<br>この曲無かったら、たぶんUNICORN聴いてない<a href="https://twitter.com/hashtag/30DaySongChallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30DaySongChallenge</a> <a href="https://t.co/4mozzzBLuY">pic.twitter.com/4mozzzBLuY</a></p>&mdash; もえまる (@moemarusan) <a href="https://twitter.com/moemarusan/status/1260950121551810561?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote>  
+https://twitter.com/moemarusan/status/1260950121551810561
 
 音楽にはどうしても思い出が付きもので、途中休憩を挟みつつ（サボった）、曲を選びながら30の記憶を掘り起こしていた。  
 Twitterで書いていた内容含め、お題の和訳は個人的な意訳なので、間違ってるかもしれん。まぁ、そういうこともあるよね。  
