@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.3",
+<<<<<<< HEAD
+    "gatsby": "^4.7.1",
+=======
     "gatsby": "^4.6.2",
+>>>>>>> master
     "gatsby-plugin-gatsby-cloud": "^4.7.0",
     "gatsby-plugin-google-analytics": "^4.7.0",
     "gatsby-plugin-image": "^2.6.0",
