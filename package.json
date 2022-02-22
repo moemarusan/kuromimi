@@ -3,7 +3,7 @@
   "private": true,
   "description": "なにか書いてる",
   "version": "0.1.0",
-  "author": "moemarusan <moemarusan@gmail.com>",
+  "author": "moemarusan",
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.3",
     "gatsby": "^4.7.1",
