@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "kuromimi",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "なにか書いてる",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "moemarusan <moemarusan@gmail.com>",
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.3",
     "gatsby": "^4.7.1",
