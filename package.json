@@ -18,7 +18,7 @@
     "gatsby-plugin-react-helmet": "^5.11.0",
     "gatsby-plugin-sass": "^5.11.1",
     "gatsby-plugin-sharp": "^4.11.1",
-    "gatsby-remark-copy-linked-files": "^5.10.0",
+    "gatsby-remark-copy-linked-files": "^5.11.0",
     "gatsby-remark-embed-youtube": "^0.0.7",
     "gatsby-remark-images": "^6.11.1",
     "gatsby-remark-prismjs": "^6.11.0",
@@ -36,7 +36,7 @@
     "typeface-montserrat": "1.1.13"
   },
   "devDependencies": {
-    "prettier": "2.6.1"
+    "prettier": "2.6.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
