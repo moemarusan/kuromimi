@@ -31,7 +31,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
-    "sass": "^1.49.9",
+    "sass": "^1.50.0",
     "typeface-merriweather": "1.1.13",
     "typeface-montserrat": "1.1.13"
   },
