@@ -9,10 +9,10 @@
   },
   "dependencies": {
     "@weknow/gatsby-remark-twitter": "^0.2.3",
-    "gatsby": "^4.11.3",
+    "gatsby": "^4.13.0",
     "gatsby-plugin-gatsby-cloud": "^4.11.1",
     "gatsby-plugin-google-analytics": "^4.13.0",
-    "gatsby-plugin-image": "^2.11.1",
+    "gatsby-plugin-image": "^2.13.0",
     "gatsby-plugin-manifest": "^4.13.0",
     "gatsby-plugin-offline": "^5.13.0",
     "gatsby-plugin-react-helmet": "^5.12.1",
