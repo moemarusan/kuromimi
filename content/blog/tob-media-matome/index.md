@@ -6,7 +6,7 @@ date: 2020-05-20
 webメディアを運営する企業では、主にC向けの本体とは別にB向けだったり採用や自社広報のために別途メディアを運営していることも結構ありそうなので、仕事で使うついでにまとめてみてる。   
 なお、舞台裏メディアなんて呼称はあくまで造語である。   
 
-- [Conobie for business｜note](https://note.com/conobie_)
+- [Conobie for business](https://business.conobie.jp)
     - [Conobie\[コノビー\] | 妊娠・出産・育児情報が満載](https://conobie.jp)
 - [コネヒトのタレ](https://biz.connehito.com/)
     - [ママリ｜ママの一歩を支える情報サイト](https://mamari.jp/)
@@ -22,3 +22,7 @@ webメディアを運営する企業では、主にC向けの本体とは別にB
 - [every.thing（エブリシング）｜ エブリーのこと、ぜんぶ](https://everything.every.tv/)
     - [ママ・パパの365日に役立つ情報を動画でお届け | MAMADAYS（ママデイズ）](https://mamadays.tv/)
     - [DELISH KITCHEN | 料理レシピ動画で作り方が簡単にわかる](https://delishkitchen.tv/)
+- [@cosme for business](https://business.cosme.net/)
+    - [@cosme](https://www.cosme.net/)
+- [エバーセンス｜note](https://note.com/eversense/)
+    - [ninaru](https://eversense.co.jp/product/ninaru)
