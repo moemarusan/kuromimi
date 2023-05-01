@@ -15,7 +15,7 @@ date: 2023-04-30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3YXE09oLHpu5BjKQVr4kq3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<small>※どうやら埋め込みプレイリストでは100曲しか表示されないようだが、実際は113曲ある<br>※大して人がこない場とはいえ、本棚とプレイリストを公開するのは恥ずかしいような</small>
+<small>※どうやら埋め込みプレイリストでは100曲しか表示されないようだが、実際は112曲ある<br>※大して人がこない場とはいえ、本棚とプレイリストを公開するのは恥ずかしいような</small>
 
 今回だけでなくどこかに出かけるときは、そのためのBGMを選ぶ時間が当日を除けば最も楽しく、最も時間がかかる。尤も、音楽以外のことについて一切計画しないからではないかという気もするが。今回もこの約8時間を選ぶのに数時間かけている。しかも、明日同じことをやったら別のプレイリストになると思う。今の今、思いついた曲を突っ込みつつ、時間帯を調整する営みであった。    
 
@@ -75,7 +75,7 @@ date: 2023-04-30
 >36: ワインレッドの心 / 安全地帯  
 >37: MIDNIGHT CALL / BARBEE BOYS  
 >38: SPY / 槇原敬之  
->39: Hipsville 29 B.C. (I Need Help) / Sparkles  
+>39: やさしくなりたい / 斉藤和義  
 >40: 世界の果て / DOES  
 >41: STYLISH WOMAN / 米米CLUB  
 >42: Dance Dance Dance / Mr.Children  
@@ -83,8 +83,7 @@ date: 2023-04-30
 >44: 真夏の夜の夢 / 松任谷由美  
 >45: ESCAPE / MOON CHILD  
 >46: Fly-day Chinatown / 泰葉  
->47: ミッドナイト・ランデブー / CASIOPEA  
->48: 十戒(1984) / 中森明菜    
+>47: ミッドナイト・ランデブー / CASIOPEA   
 
 「午前零時」がだいたい0:00くらいに流れるようにというのが第一こだわりポイントだった。もともと15曲1時間で換算していたのもあって、31曲目になっていたはずが、前が増えた関係で32曲目に。  
 そして意識したわけではないんだけど、気付いたらミッドナイト密集地帯になっていた。私のミッドナイトは1時前なのかもしれない。そうだ、本当は「ミッドナイト・シャッフル」を入れたかったんだけど、ジャニーズなので残念ながらSpotifyにはなく……  
@@ -92,6 +91,7 @@ date: 2023-04-30
 
 ## 1:00-2:00
 
+>48: 十戒(1984) / 中森明菜  
 >49: ドラマティック・レイン / 稲垣潤一  
 >50: Love Insurance / Front Page  
 >51: 晴晴新人類 / 米米CLUB  
@@ -123,7 +123,7 @@ date: 2023-04-30
 >70: 僕が僕であるために / 尾崎豊  
 >71: LEAVE ME ALONE / T-SQUARE  
 >72: 愛はつづいてる / 米米CLUB  
->73: 深夜高速 / フラワーカンパニーズ       
+>73: 深夜高速 / フラワーカンパニーズ         
 
 本当はもっと曲があったはずだが、後ろに入れたり前に入れたりした結果、この時間帯に流れる想定で入れたのはこの11曲に。  
 一人でいると、2:00-3:00が個人的に一番感傷的になりがちな時間帯なので、ここに比較的個人的エモい曲を詰め込んだ。ほとんどが「一人で夜中海に行って、誰もいないからイヤホンもせずにスマホから直接流したい曲」ともいう。下手すると泣くので、運転しながら聴く上では気をつけたい。  
@@ -141,30 +141,29 @@ date: 2023-04-30
 >81: ヤング ソウル ダイナマイト / ウルフルズ  
 >82: ミッドナイトグライダー / フレデリック  
 >83: Bad Communication E.Style / B'z  
->84: Don't Make Me Wait (feat. Lauraine) / Bomb The Bass  
->85: SPARK / THE YELLOW MONKEY  
->86: DARK SHAME / GRANRODEO  
->87: 限界LOVERS / SHOW-YA  
->88: 林檎 / LACCO TOWER  
->89: Collection / 米米CLUB       
+>84: SPARK / THE YELLOW MONKEY  
+>85: DARK SHAME / GRANRODEO  
+>86: 限界LOVERS / SHOW-YA  
+>87: 林檎 / LACCO TOWER  
+>88: Collection / 米米CLUB     
 
 夜of夜な曲を比較的詰め込んだ。別の言い方をすれば「他人と行ったカラオケではちょっと歌いにくい曲」。元々「ヤング ソウル ダイナマイト」はもっと前にあったんだけど、やっぱりこのラインだろうということで（どっちにしても自分で歌うとダサいので歌わないが）。  
 「Jealousy」→「LIAR GIRL」は個人的深夜の極み。音がなんか深夜っぽい。しかも歌舞伎町的繁華街の深夜。  
 
 ## 4:00-5:00
 
->90: butterfly / PIANO SHIFT  
->91: おジャ魔女でBAN2 / MAHO堂  
->92: おかしな2人 / UNICORN  
->93: FULL DRIVE / TRI4TH  
->94: Have Love Will Travel / The Sonics  
->95: バカサバイバー / ウルフルズ  
->96: 大好物 / スピッツ  
->97: Bad Boy Good Man / Tape Five  
->98: ジェネレーション・ダイナマイト / THE ALFEE  
->99: 時に愛は / オフコース  
->100: I'M A SOUL MAN / 米米CLUB  
->101: 今宵、月が見えずとも / ポルノグラフィティ    
+>89: butterfly / PIANO SHIFT  
+>90: おジャ魔女でBAN2 / MAHO堂  
+>91: おかしな2人 / UNICORN  
+>92: FULL DRIVE / TRI4TH  
+>93: Have Love Will Travel / The Sonics  
+>94: バカサバイバー / ウルフルズ  
+>95: 大好物 / スピッツ  
+>96: Bad Boy Good Man / Tape Five  
+>97: ジェネレーション・ダイナマイト / THE ALFEE  
+>98: 時に愛は / オフコース  
+>99: I'M A SOUL MAN / 米米CLUB  
+>100: 今宵、月が見えずとも / ポルノグラフィティ      
 
 だんだん朝になってきたので、ちょっとさわやかにしつつ、まだ夜でもあるというそんな過渡期。  
 「おジャ魔女でBAN2」、どこかに入れたかったんだけど悩んだ末ここに入ってきた。目も覚めそうだし。   
@@ -176,18 +175,18 @@ date: 2023-04-30
 
 ## 5:00-6:00
 
->102: アロエ / サザンオールスターズ  
->103: EMERGENCY / NANIWA EXPRESS  
->104: Le Mans 66 / Marco Beltrami  
->105: Virtual Insanity / Jamiroquai  
->106: DAYBREAK FRONTLINE / Orangestar  
->107: ASAYAKE / CASIOPEA  
->108: ROCKET DIVE / hide  
->109: Hello,world! / BUMP OF CHICKEN  
->110: The Mexican / Q.A.S.B.  
->111: Hello! Orange Sunshine / JUDY AND MARY  
->112: 富士山 / 電気グルーヴ  
->113: Shake Hip! / 米米CLUB       
+>101: アロエ / サザンオールスターズ  
+>102: EMERGENCY / NANIWA EXPRESS  
+>103: Le Mans 66 / Marco Beltrami  
+>104: Virtual Insanity / Jamiroquai  
+>105: DAYBREAK FRONTLINE / Orangestar  
+>106: ASAYAKE / CASIOPEA  
+>107: ROCKET DIVE / hide  
+>108: Hello,world! / BUMP OF CHICKEN  
+>109: The Mexican / Q.A.S.B.  
+>110: Hello! Orange Sunshine / JUDY AND MARY  
+>111: 富士山 / 電気グルーヴ  
+>112: Shake Hip! / 米米CLUB       
 
 夜が終わりかけているので、全体的に朝っぽいけど暗くても聴ける曲を詰めた。  
 「Le Mans 66」もどこに入れようか悩んだけどあんまり暗い時間にすると、スピードを出したい気分になりそうだったので明るくなりそうな時間に。それにこの曲は、エンディング感のある終わり方するからちょうどいい。その次の「Virtual Insanity」でまぁ落ち着け、「DAYBREAK FRONTLINE」「ASAYAKE」でもうすぐ朝だよ〜、「ROCKET DIVE」「Hello,world!」でｵﾊﾖｳｺﾞｻﾞｲﾏｽ、「The Mexican」は気分が踊るかな、「Hello! Orange Sunshine」はマジで朝だよ〜、「富士山」で日の出、「Shake Hip!」で終わり！っていう流れがあるようでないようなそんな感じで……   
