@@ -43,6 +43,21 @@ article {
 hr {
 	margin: 5rem 0;
 	border-top: 0.5px dashed #5d7a8b;
+	height: 1em;
+	text-align: center;
+	overflow: visible;
+
+	&::after {
+		content: "\002702";
+		background: var(--bg-color);
+		color: #5d7a8b;
+		display: inline-block;
+		height: 2em;
+		line-height: 2em;
+		position: relative;
+		top: -1em;
+		padding: 0 0.5em;
+	}
 }
 
 .post-article {
