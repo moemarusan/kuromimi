@@ -46,6 +46,13 @@ module.exports = {
             },
           },
           {
+            resolve: `gatsby-remark-link-beautify`,
+            options: {
+              enableLinkPreview: false,
+              showFavicon: false,
+            },
+          },
+          {
             resolve: "gatsby-remark-embed-youtube",
             options: {
               width: 750,
