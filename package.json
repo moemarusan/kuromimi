@@ -8,9 +8,9 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.33.1-alpha.15",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@weknow/gatsby-remark-twitter": "^0.2.3",
-    "acorn": "^8.9.0",
+    "acorn": "^8.10.0",
     "babel-eslint": "^10.1.0",
     "core-js": "^3.31.0",
     "gatsby": "^5.11.0",
@@ -44,7 +44,7 @@
     "typescript": "^5.2.0-dev.20230702"
   },
   "devDependencies": {
-    "prettier": "2.8.8"
+    "prettier": "3.0.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
