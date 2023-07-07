@@ -11,7 +11,6 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Seo title={siteTitle} />
         <p>
           No blog posts found. Add markdown posts to "content/blog" (or the
           directory you specified for the "gatsby-source-filesystem" plugin in
@@ -23,7 +22,6 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title={siteTitle} />
       <ol className="articles">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
@@ -53,6 +51,10 @@ const BlogIndex = ({ data, location }) => {
 }
 
 export default BlogIndex
+
+export const Head = ({data}) => (
+  <Seo title={data.site.siteMetadata?.title || `Title`} />
+)
 
 export const pageQuery = graphql`{
   site {

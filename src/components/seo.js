@@ -7,10 +7,9 @@
 
 import * as React from "react"
 import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Seo = ({ description, lang, meta, title }) => {
+const Seo = ({ description, title, children }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -38,67 +37,31 @@ const Seo = ({ description, lang, meta, title }) => {
   }
 
   return (
-    <Helmet
-      htmlAttributes={{
-        lang,
-      }}
-      title={title}
-      titleTemplate={is_root ? defaultTitle : `%s | ${defaultTitle}`}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          property: `og:image`,
-          content: `https://kuromimi.moemarusan.com/ogp-image.png`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata?.social?.twitter || ``,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-        {
-          name: `twitter:image`,
-          content: `https://kuromimi.moemarusan.com/ogp-image.png`,
-        },
-      ].concat(meta)}
-    />
+    <>
+        <title>{is_root ? defaultTitle : `%s | ${defaultTitle}`}</title>
+        <meta name="description" content={metaDescription} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={metaDescription} />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={defaultTitle} />
+        <meta property="og:image" content="https://kuromimi.moemarusan.com/ogp-image.png" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content={site.siteMetadata?.social?.twitter || ``} />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={metaDescription} />
+        <meta name="twitter:image" content="https://kuromimi.moemarusan.com/ogp-image.png" />
+        {children}
+      </>
   )
 }
 
 Seo.defaultProps = {
-  lang: `en`,
   meta: [],
   description: ``,
 }
 
 Seo.propTypes = {
   description: PropTypes.string,
-  lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
 }
