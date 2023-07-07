@@ -3,9 +3,12 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
+  const { createRedirect } = actions
 
   // Define a template for blog post
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+
+  createRedirect({ fromPath: '/okinawa_2306/', toPath: '/okinawa-2306/', isPermanent: true })
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
