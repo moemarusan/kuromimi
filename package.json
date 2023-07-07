@@ -12,7 +12,7 @@
     "@weknow/gatsby-remark-twitter": "^0.2.3",
     "acorn": "^8.10.0",
     "babel-eslint": "^10.1.0",
-    "core-js": "^3.31.0",
+    "core-js": "^3.31.1",
     "gatsby": "^5.11.0",
     "gatsby-plugin-canonical-urls": "^5.11.0",
     "gatsby-plugin-gatsby-cloud": "^5.11.0",
