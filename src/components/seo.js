@@ -9,7 +9,7 @@ import * as React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Seo = ({ description,title, children }) => {
+const Seo = ({ description, title, children }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -30,7 +30,7 @@ const Seo = ({ description,title, children }) => {
   const defaultTitle = site.siteMetadata?.title
   let is_root;
 
-  if (title === "$cd ~/kuromimi") {
+  if (title === site.siteMetadata.title) {
     is_root = true;
   } else {
     is_root = false;
