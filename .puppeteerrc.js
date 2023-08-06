@@ -2,5 +2,5 @@
  * @type {import('puppeteer').Configuration}
  */
 module.exports = {
-    userDataDir: './.cache/puppeteer',
+    cacheDirectory: join(__dirname, '.cache', 'puppeteer'),
 };
