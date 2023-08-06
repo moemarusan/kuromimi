@@ -50,6 +50,7 @@ module.exports = {
             options: {
               enableLinkPreview: false,
               showFavicon: false,
+              puppeteerLaunchArgs: ['--no-sandbox', '--disable-setuid-sandbox'],
             },
           },
           {
