@@ -10,5 +10,11 @@
       ]
     }
   ],
-  "postBuild": "bash test.sh"
+  "postBuild": {
+    "commands": [
+      {
+        "command": "bash test.sh"
+      }
+    ]
+  }
 }
