@@ -69,3 +69,5 @@ yarn-error.log
 .yarn-integrity
 
 content/blog/wip_*
+
+!.cache/puppeteer
