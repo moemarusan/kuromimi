@@ -1,3 +1,3 @@
 echo -------------------------
-ls -a .cache
+ls -a .cache/puppeteer
 echo -------------------------
