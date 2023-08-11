@@ -39,7 +39,7 @@
     "sass": "^1.64.1",
     "typeface-merriweather": "1.1.13",
     "typeface-montserrat": "1.1.13",
-    "typescript": "^5.2.0-dev.20230728"
+    "typescript": "^5.2.0-dev.20230807"
   },
   "devDependencies": {
     "prettier": "3.0.0"
