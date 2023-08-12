@@ -104,7 +104,7 @@ module.exports = {
       options: {
         output: `/sitemap.xml`,
       }
-    }
+    },
     `gatsby-plugin-gatsby-cloud`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
