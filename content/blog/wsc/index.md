@@ -1,5 +1,5 @@
 ---
-title: "「WILD SOUL CARNIVAL」で悩みながらサバンナに行ったら楽しすぎた27歳の夏"
+title: "「WILD SOUL CARNIVAL」で悩みながらサバンナに行ったら結局楽しすぎた27歳の夏"
 date: 2023-08-13
 ---
 
