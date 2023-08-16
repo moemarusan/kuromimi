@@ -42,7 +42,7 @@
     "typescript": "^5.2.0-dev.20230807"
   },
   "devDependencies": {
-    "prettier": "3.0.1"
+    "prettier": "3.0.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
