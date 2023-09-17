@@ -8,18 +8,18 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/eslint-plugin": "^6.6.0",
     "@weknow/gatsby-remark-twitter": "^0.2.3",
     "acorn": "^8.10.0",
     "babel-eslint": "^10.1.0",
-    "core-js": "^3.32.0",
-    "gatsby": "^5.11.0",
+    "core-js": "^3.32.1",
+    "gatsby": "^5.12.4",
     "gatsby-plugin-canonical-urls": "^5.11.0",
     "gatsby-plugin-gatsby-cloud": "^5.11.0",
     "gatsby-plugin-google-gtag": "^5.11.0",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-manifest": "^5.11.0",
-    "gatsby-plugin-offline": "^6.11.0",
+    "gatsby-plugin-offline": "^6.12.0",
     "gatsby-plugin-sass": "^6.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
     "gatsby-plugin-sitemap": "^6.11.0",
@@ -29,20 +29,20 @@
     "gatsby-remark-images": "^7.11.0",
     "gatsby-remark-prismjs": "^7.11.0",
     "gatsby-remark-responsive-iframe": "^6.11.1",
-    "gatsby-remark-smartypants": "^6.11.0",
+    "gatsby-remark-smartypants": "^6.12.0",
     "gatsby-source-filesystem": "^5.11.0",
     "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.65.1",
+    "sass": "^1.66.1",
     "typeface-merriweather": "1.1.13",
     "typeface-montserrat": "1.1.13",
     "typescript": "^5.2.0-dev.20230807"
   },
   "devDependencies": {
-    "prettier": "3.0.1"
+    "prettier": "3.0.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
